@@ -1,0 +1,5 @@
+.Dice {
+  margin: 0.5rem auto 1rem auto;
+  display: flex;
+  justify-content: space-between;
+}
